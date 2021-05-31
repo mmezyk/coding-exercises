@@ -1,6 +1,7 @@
-Pig is a simple dice game.
-Players take turns to roll a single die as many times as they wish, 
-adding all roll results to a running total, 
-but losing their gained score for the turn if they roll a 1.
+<b>Pig - a simple dice game</b>
 
-Source @jonasschmedtmann
+Players take turns to roll a single die as many times as they wish,<br> 
+adding all roll results to a running total,<br>
+but losing their gained score for the turn if they roll a 1.<br>
+
+Source <a href="https://github.com/jonasschmedtmann">@jonasschmedtmann</a>

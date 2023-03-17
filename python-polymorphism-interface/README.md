@@ -26,10 +26,4 @@ depending on the selected algorithm.
 
 ### Files:
 
-main.ipynb - jupyter notebook with exploratory data analysis
-
-train.py - python script for model training
-
-predict.py - python script for model inference on test data
-
-gbr_params.json - tuned hyperparameter set for GBR
+main.py - the solution
